@@ -1,0 +1,6 @@
+# Ignore all files
+*
+# But do not ignore the following files
+!.gitignore
+!.bashrc
+!.gitconfig

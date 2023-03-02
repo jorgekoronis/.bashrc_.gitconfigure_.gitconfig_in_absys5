@@ -1,0 +1,9 @@
+[alias]
+	lod = log --oneline --decorate --color --all --graph
+	lod2 = log --graph --pretty=format:\"%C(yellow)%h%x09%Creset%C(cyan)%C(bold)%ad%Creset  %C(green)%Creset %s\"
+	lod3 = log --graph --all --decorate --pretty=format:\"%C(yellow)%h%x09%Creset%C(cyan)%C(bold)%ad%Creset  %C(green)%Creset %s\"
+[http]
+	sslVerify = true
+[user]
+	name = Jorge Koronis
+	email = jkoronis@ucm.es
